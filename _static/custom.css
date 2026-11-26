@@ -1,0 +1,5 @@
+/* Tables sit on the left, as they do on GitHub. */
+article table.docutils {
+  margin-left: 0;
+  margin-right: auto;
+}
