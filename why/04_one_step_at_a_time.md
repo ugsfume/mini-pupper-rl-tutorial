@@ -115,5 +115,3 @@ When we went back to the real thing with the retrained walker, it did make it to
 - When the real robot fails in a way you never saw in simulation, ask what's missing from the simulated world.
 
 Our robot can now climb stairs, which is great. Unfortunately, when we asked it to walk backwards, it just stood there.
-
-Next: [Chapter 5. Learning without forgetting](05_learning_without_forgetting.md)

@@ -178,5 +178,3 @@ it was usually back on its feet in around two seconds.
 - Make sure the simulated robot can't do things that the real one can't.
 - Test a skill in the way that it'll really be used.
 - Not everything has to be solved with the reward. Sometimes it's easier to change the system around it.
-
-Next: [Chapter 7. Onto the robot, and beyond](07_onto_the_robot.md)

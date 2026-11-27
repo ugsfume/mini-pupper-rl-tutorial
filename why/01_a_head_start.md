@@ -60,9 +60,8 @@ We did two things about it. For the first few dozen rounds, we only train the cr
 for a while before it starts handing out advice. And we made each change to the policy smaller, by lowering what's called
 the **learning rate**.
 
-After that, the policy came through its first real round still walking just like the clone. We never worked out which of
-the two made the difference, so we kept both. If you ever carry on training from a policy that works, and it suddenly
-doesn't, this would be a good place to start looking.
+After that, the policy came through its first real round still walking just like the clone. If you ever carry on training 
+from a policy that works, and it suddenly doesn't, this would be a good place to start looking.
 
 ## Keeping hold of the trot
 
@@ -100,5 +99,3 @@ little faster than we'd asked them to!
 
 So far we've been saying "in simulation" as if it were no big deal. In the next chapter, we'll see what it takes for
 something learned in there to work out here.
-
-Next: [Chapter 2. The simulator lies a little](02_the_simulator_lies_a_little.md)

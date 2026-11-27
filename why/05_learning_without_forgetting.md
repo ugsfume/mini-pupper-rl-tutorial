@@ -87,5 +87,3 @@ stage we'd see what it was still struggling with, and work on that in the next o
 - Once they're gone, mixing the old tasks back in may not be enough to recover them.
 - An anchor to an earlier policy can help to keep the old skills while the robot learns new ones.
 - If the robot or the task changes, try fine-tuning the policy you have before starting from nothing.
-
-Next: [Chapter 6. Getting back up](06_getting_back_up.md)

@@ -88,5 +88,3 @@ happily give us the stand-in. It works better to pay for the thing itself, as di
 - A rising reward doesn't always mean it's getting better at the task, so it's good to have another measurement to check.
 - Training involves some luck. Running the same thing with another seed gives you an idea of how much.
 - Where you can, reward the thing you actually want, rather than something that usually goes along with it.
-
-Next: [Chapter 4. One step at a time](04_one_step_at_a_time.md)

@@ -54,7 +54,7 @@ So instead of guessing, we measured them. It's a process called **system identif
 
 ![A motor swinging a weighted arm, next to plots of how it moved](media/ch02_motor_test.gif)
 
-*One of our motors being put through its paces, next to what the real motor did and what our models predicted. From the [mini_pupper](https://github.com/mangdangroboticsclub/mini_pupper) repository, Apache-2.0.*
+*One of our motors being put through its paces, next to what the real motor did and what our models predicted.*
 
 Then we put that model into the simulator, in place of the spring.
 
@@ -110,5 +110,3 @@ has a good chance of working out here.
 - A policy learns the simulator's mistakes too, so it's worth measuring the things that matter. For us, that started with
   the motors.
 - For things we can't measure, we can train on a range of possibilities.
-
-Next: [Chapter 3. You get what you reward](03_you_get_what_you_reward.md)

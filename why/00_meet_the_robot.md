@@ -158,5 +158,3 @@ good places to start:
   from the very beginning, and has exercises.
 - [Proximal Policy Optimization](https://spinningup.openai.com/en/latest/algorithms/ppo.html) explains what PPO is
   actually doing.
-
-Next: [Chapter 1. A head start](01_a_head_start.md)
