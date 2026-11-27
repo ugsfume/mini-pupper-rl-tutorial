@@ -29,7 +29,7 @@ html_show_sourcelink = False
 linkcheck_ignore = [r"http://localhost:\d+"]
 
 # While the site is under review, ask search engines not to list it. Set to False at release.
-NOINDEX = True
+NOINDEX = False
 
 
 def _page_context(app, pagename, templatename, context, doctree):
